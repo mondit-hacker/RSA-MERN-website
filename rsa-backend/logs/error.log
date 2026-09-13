@@ -1,0 +1,45 @@
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:11.538Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:11.579Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:18.545Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:18.546Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:27.551Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:27.551Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:40.556Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:40.557Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 5/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:01.561Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:17.911Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:17.940Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:24.930Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:24.935Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:33.958Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:33.973Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:46.988Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:46.996Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 5/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:46:08.008Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:25.104Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:25.151Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:32.110Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:32.111Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:41.116Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:41.117Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:54.123Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:54.123Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 5/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:17:15.128Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:35:56.709Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:35:56.755Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:03.716Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:03.717Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:12.724Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:12.724Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:25.731Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:25.731Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 5/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:46.736Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:26.614Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:26.664Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:33.620Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:33.620Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:42.625Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:42.625Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:55.630Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:55.631Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 5/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:31:16.635Z"}

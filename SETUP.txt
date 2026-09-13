@@ -1,0 +1,48 @@
+RSA ERP SETUP — Rise & Shine Academy
+=====================================
+Email: riseandshine462@gmail.com
+Phone: +91 90621 41212
+
+1. Install Node.js LTS: https://nodejs.org
+2. Install MongoDB Community: https://www.mongodb.com/try/download/community
+   CHECK: Install as Service + Install Compass
+
+3. Copy rsa-backend/.env.example -> rename to .env
+   Fill in:
+   - EMAIL_PASS: Gmail App Password (Account -> Security -> App Passwords)
+   - Keep everything else as-is for local setup
+
+4. Create rsa-frontend/.env (already done - just check VITE_API_BASE=/x-api)
+
+5. Open CMD:
+   cd rsa-backend  -> npm install  (wait)
+   cd rsa-frontend -> npm install  (wait)
+
+6. Double-click START.bat
+
+FIRST ADMIN (run once in CMD):
+curl -X POST http://localhost:5000/api/auth/register -H "Content-Type: application/json" -d "{\"firstName\":\"Admin\",\"lastName\":\"RSA\",\"email\":\"admin@rsa.com\",\"password\":\"Admin@1234\"}"
+
+Then: MongoDB Compass -> rsa_academy -> users -> admin@rsa.com
+      Edit: role = "admin", isEmailVerified = true -> Update
+
+LOGIN: http://localhost:3000/login
+
+WHAT WORKS:
+  Admin Panel    -> Dashboard, Students, Users, Attendance, Results,
+                    Complaints, Analytics, Backup, Classes, Credentials, Logs
+  HR Panel       -> Faculty (add/remove teachers), Personnel, Students, Classes
+  Teacher Panel  -> Overview (assigned classes), My Students, Mark Attendance,
+                    Enter Results (with student dropdown), Messages, Profile
+  Manager Panel  -> Enquiries pipeline, Complaints, Broadcast, Analytics
+  Student Panel  -> Overview, Profile, Attendance (chart), Results (subject breakdown)
+  Developer Panel-> System Health, User Registry, Sessions, Event Logs
+
+TEACHER ASSIGNMENT:
+  Admin/HR Panel -> Classes tab -> Assign Teacher
+  Select teacher (shows name + employee ID), grade, section, subject, campus
+  Teacher logs in -> sees assigned classes + students automatically
+
+PASSWORDS:
+  Admin Panel -> Credentials tab = all passwords in one place
+  Also: rsa-backend/logs/credentials.log

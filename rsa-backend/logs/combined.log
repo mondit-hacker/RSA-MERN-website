@@ -1,0 +1,131 @@
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-09T11:32:22.304Z"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 / rsa_academy","timestamp":"2026-09-09T11:32:22.339Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-09T11:32:22.366Z"}
+{"level":"info","message":"📧 Using Ethereal test email (preview at https://ethereal.email)","timestamp":"2026-09-09T11:32:23.082Z"}
+{"level":"info","message":"   Ethereal login: zwgqwnebsjwvqbif@ethereal.email / RhQh37uvJr4WCubTgA","timestamp":"2026-09-09T11:32:23.083Z"}
+{"level":"warn","message":"HARD DELETE: User 6a9bbe60e0a8e22ec3648f25 permanently deleted by 6a995b5bf8a40a531303bc8d","timestamp":"2026-09-09T11:57:13.839Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-09T12:00:15.350Z"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 / rsa_academy","timestamp":"2026-09-09T12:00:15.376Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-09T12:00:15.395Z"}
+{"level":"info","message":"📧 Using Ethereal test email (preview at https://ethereal.email)","timestamp":"2026-09-09T12:00:16.097Z"}
+{"level":"info","message":"   Ethereal login: fkgokp3cyc6z5pdn@ethereal.email / yM1XNkaukmjCaWRGnw","timestamp":"2026-09-09T12:00:16.097Z"}
+{"level":"info","message":"📧 Email preview: https://ethereal.email/message/aqFKi6pIpkHSaw4laqFLUt4vWvYlxs64AAAAAbLNYT2N5wKd.6Cf4WdmBEk","timestamp":"2026-09-09T12:03:34.675Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-10T01:07:23.649Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-12T07:44:06.544Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-12T07:44:06.607Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:44:11.537Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:11.538Z"}
+{"level":"info","message":"Retrying in 2s...","timestamp":"2026-09-12T07:44:11.538Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-12T07:44:11.578Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:11.579Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:44:18.544Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:18.545Z"}
+{"level":"info","message":"Retrying in 4s...","timestamp":"2026-09-12T07:44:18.545Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:18.546Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:44:27.550Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:27.551Z"}
+{"level":"info","message":"Retrying in 8s...","timestamp":"2026-09-12T07:44:27.551Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:27.551Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:44:40.556Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:40.556Z"}
+{"level":"info","message":"Retrying in 16s...","timestamp":"2026-09-12T07:44:40.556Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:44:40.557Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:45:01.561Z"}
+{"level":"info","message":"Server running in test mode on port 5000","timestamp":"2026-09-12T07:45:12.935Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-12T07:45:13.062Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:45:17.906Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:17.911Z"}
+{"level":"info","message":"Retrying in 2s...","timestamp":"2026-09-12T07:45:17.918Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-12T07:45:17.938Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:17.940Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:45:24.927Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:24.930Z"}
+{"level":"info","message":"Retrying in 4s...","timestamp":"2026-09-12T07:45:24.934Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:24.935Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:45:33.941Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:33.958Z"}
+{"level":"info","message":"Retrying in 8s...","timestamp":"2026-09-12T07:45:33.965Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:33.973Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:45:46.981Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:46.988Z"}
+{"level":"info","message":"Retrying in 16s...","timestamp":"2026-09-12T07:45:46.994Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T07:45:46.996Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T07:46:08.003Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-12T14:55:20.352Z"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 / rsa_academy","timestamp":"2026-09-12T14:55:20.388Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-12T14:55:20.414Z"}
+{"level":"info","message":"📧 Using Ethereal test email (preview at https://ethereal.email)","timestamp":"2026-09-12T14:55:21.111Z"}
+{"level":"info","message":"   Ethereal login: n4jqxnun5s24ka56@ethereal.email / yVMh5perzGkEDvbVr4","timestamp":"2026-09-12T14:55:21.111Z"}
+{"level":"warn","message":"HARD DELETE: User 6aa14b1122454cd987111c80 permanently deleted by 6a995b5bf8a40a531303bc8d","timestamp":"2026-09-12T15:20:54.921Z"}
+{"level":"warn","message":"HARD DELETE: User 6aa14aba22454cd987111c08 permanently deleted by 6a995b5bf8a40a531303bc8d","timestamp":"2026-09-12T15:20:56.651Z"}
+{"level":"info","message":"📧 Email preview: https://ethereal.email/message/aqVoGXS9RyYbmGFsaqVx9vLvAxtdpgIbAAAAAcZwWUwYpFlZ5OTyZBp38iE","timestamp":"2026-09-12T15:37:25.560Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-12T18:16:20.116Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-12T18:16:20.247Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T18:16:25.102Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:25.104Z"}
+{"level":"info","message":"Retrying in 2s...","timestamp":"2026-09-12T18:16:25.104Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-12T18:16:25.150Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:25.151Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T18:16:32.109Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:32.110Z"}
+{"level":"info","message":"Retrying in 4s...","timestamp":"2026-09-12T18:16:32.111Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:32.111Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T18:16:41.116Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:41.116Z"}
+{"level":"info","message":"Retrying in 8s...","timestamp":"2026-09-12T18:16:41.117Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:41.117Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T18:16:54.122Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:54.123Z"}
+{"level":"info","message":"Retrying in 16s...","timestamp":"2026-09-12T18:16:54.123Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-12T18:16:54.123Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-12T18:17:15.128Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-13T02:35:51.723Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-13T02:35:51.805Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T02:35:56.707Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:35:56.709Z"}
+{"level":"info","message":"Retrying in 2s...","timestamp":"2026-09-13T02:35:56.709Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-13T02:35:56.755Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:35:56.755Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T02:36:03.715Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:03.716Z"}
+{"level":"info","message":"Retrying in 4s...","timestamp":"2026-09-13T02:36:03.717Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:03.717Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T02:36:12.723Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:12.724Z"}
+{"level":"info","message":"Retrying in 8s...","timestamp":"2026-09-13T02:36:12.724Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:12.724Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T02:36:25.730Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:25.731Z"}
+{"level":"info","message":"Retrying in 16s...","timestamp":"2026-09-13T02:36:25.731Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T02:36:25.731Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T02:36:46.736Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-13T11:30:21.625Z"}
+{"level":"warn","message":"No email configured. Passwords only saved to logs/credentials.log","timestamp":"2026-09-13T11:30:21.859Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T11:30:26.613Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 1/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:26.614Z"}
+{"level":"info","message":"Retrying in 2s...","timestamp":"2026-09-13T11:30:26.614Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-13T11:30:26.664Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:26.664Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T11:30:33.619Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 2/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:33.620Z"}
+{"level":"info","message":"Retrying in 4s...","timestamp":"2026-09-13T11:30:33.620Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:33.620Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T11:30:42.624Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 3/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:42.625Z"}
+{"level":"info","message":"Retrying in 8s...","timestamp":"2026-09-13T11:30:42.625Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:42.625Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T11:30:55.630Z"}
+{"level":"error","message":"MongoDB connection failed (attempt 4/5): connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:55.630Z"}
+{"level":"info","message":"Retrying in 16s...","timestamp":"2026-09-13T11:30:55.631Z"}
+{"level":"error","message":"MongoDB error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2026-09-13T11:30:55.631Z"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2026-09-13T11:31:16.634Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-13T12:41:28.560Z"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 / rsa_academy","timestamp":"2026-09-13T12:41:28.597Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-13T12:41:28.624Z"}
+{"level":"info","message":"📧 Using Ethereal test email (preview at https://ethereal.email)","timestamp":"2026-09-13T12:41:29.333Z"}
+{"level":"info","message":"   Ethereal login: hp2ais3o34fxohj3@ethereal.email / gaFTBEr1E6nSm9vvXd","timestamp":"2026-09-13T12:41:29.336Z"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-09-13T12:46:56.079Z"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 / rsa_academy","timestamp":"2026-09-13T12:46:56.091Z"}
+{"level":"info","message":"Backup scheduler active: \"0 2 * * *\" (IST)","timestamp":"2026-09-13T12:46:56.109Z"}
+{"level":"info","message":"📧 Using Ethereal test email (preview at https://ethereal.email)","timestamp":"2026-09-13T12:46:56.856Z"}
+{"level":"info","message":"   Ethereal login: jyqryv27iwknlev3@ethereal.email / JnRnaVRUGWpecBWMCm","timestamp":"2026-09-13T12:46:56.856Z"}
