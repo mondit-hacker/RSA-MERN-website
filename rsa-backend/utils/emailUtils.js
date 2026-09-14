@@ -192,4 +192,4 @@ async function sendBackupNotification(adminEmail, info) {
   });
 }
 
-module.exports = { sendEmail, sendWelcomeWithCredentials, sendPasswordResetEmail, sendLockoutAlert, sendBackupNotification };
+module.exports = { sendEmail, sendWelcomeWithCredentials, sendPasswordResetEmail, sendLockoutAlert, sendAccountLockedEmail: sendLockoutAlert, sendBackupNotification };
