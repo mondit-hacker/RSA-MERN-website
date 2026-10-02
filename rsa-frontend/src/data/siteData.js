@@ -90,7 +90,7 @@ export const EVENTS = [
 ];
 
 export const ANNOUNCEMENTS = [
-  '📢 Admissions Open for 2026–27 — Apply Now!',
+  '📢 Admissions Open — Apply Now!',
   '🎉 Annual Sports Day on July 15, 2026',
   '🖌️ Art & Science Fair on August 5, 2026',
   '🌟 Olympiad Prep Camp — October 2, 2026',
